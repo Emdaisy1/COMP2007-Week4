@@ -7,9 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_Lesson4A {
+namespace COMP2007_Week4 {
     
     
-    public partial class Departments {
+    public partial class Students {
     }
 }
